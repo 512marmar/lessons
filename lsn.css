@@ -1,0 +1,17 @@
+.pp{
+   font-size: 40px;
+   margin: 30px;
+   font-family: 'Montserrat', sans-serif;
+}
+li {
+    margin: 30px;
+}
+body {
+    background-color: floralwhite;
+}
+li a:hover {
+    font-weight: bold;
+    background-color: rgb(240, 216, 216);
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
